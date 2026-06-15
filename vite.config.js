@@ -6,4 +6,3 @@ export default defineConfig({
   base: "/aerolog/",
   plugins: [react()],
 });
-```
